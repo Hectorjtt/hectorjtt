@@ -1,8 +1,8 @@
-<h1 align="center">Bienvenido a mi Repositorio Personal de GitHub 🚀</h1>
+<h1 align="center">Welcome to My Personal GitHub Repository 🚀</h1>
 
 # 👋 Hello, I'm Luis Diego Domínguez Larrieta
 
-## 🌐 Software Engineer | Innovator | Hackathon Winner
+## 🌐 Software Engineer | Hackathon Winner | Innovator
 
 ### Monterrey, Mexico | Class of 2026
 
