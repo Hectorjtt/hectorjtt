@@ -1,6 +1,6 @@
 <h1 align="center">Welcome to My Personal GitHub Repository 🚀</h1>
 
-# 👋 Hello, I'm Luis Diego Domínguez Larrieta
+# 👋 Hello, I'm Héctor Jesus Tamez Treviño 
 
 ## 🌐 Software Engineer | Hackathon Winner | Innovator
 
