@@ -1,24 +1,37 @@
 <h1 align="center">Bienvenido a mi Repositorio Personal de GitHub 🚀</h1>
 
-## Yo 💫
-Hola mi nombre es Luis Diego Domínguez Larrieta 👋
-Software Engineering Student.
-### **Monterrey,Mexico** **Fall'26 Gen**
+# 👋 Hello, I'm Luis Diego Domínguez Larrieta
 
-## 🎓 About Me
-Soy Estudiante de Segundo año de Ingenieria en Tecnologías Computacionales del Tec de Monterrey Campus Monterrey.
-Mi viaje en este campo ha sido emocionante y con un gran camino por recorrer,  este repositorio es un reflejo de mi dedicación y entusiasmo por aprender y crecer en el ámbito de la ingeniería en tecnologias computacionales
+## 🌐 Software Engineer | Innovator | Hackathon Winner
 
-### ⚡Pasión y Disciplina
-Mi pasión por la tecnología va más allá de las aulas; el tener objetivos y metas claras me impulsan a enfrentar desafíos y a abrazar nuevas ideas. Soy un creyente ferviente de que la disciplina es la clave del éxito, y estoy comprometido a mantener un enfoque constante y riguroso en mi aprendizaje y desarrollo profesional.
+### Monterrey, Mexico | Class of 2026
 
-### 🔭 Objetivo
-Mi objetivo es utilizar mis conocimientos para no solo avanzar en mi carrera, sino también para aportar de manera significativa a mi entorno. Creo en el poder transformador de la tecnología y estoy decidido a ser un agente de cambio, creando soluciones innovadoras que beneficien a la comunidad.
+---
 
-### 🌱 Unete a mi viaje!
-Te invito a unirte a mí mientras persigo proyectos desafiantes y significativos. Tu colaboración y feedback son fundamentales para mi crecimiento. Juntos, podemos apoyarnos y desarrollar un futuro impulsado por la tecnología, donde cada línea de código cuenta.
+### 📚 About Me
 
-¡Gracias por explorar mi repositorio y ser parte de mi viaje!
+I am a passionate Software Engineer with experience collaborating with leading companies to develop cutting-edge solutions. Currently a second-year student in Computer Technologies Engineering at Tecnológico de Monterrey, Campus Monterrey, my journey in the tech field has been both exciting and rewarding.
+
+### 🏆 Professional Highlights
+
+- **Collaborated with Major Companies**: Worked on impactful projects that enhanced my skills and contributed to meaningful technological advancements.
+- **Hackathon Champion**: Achieved top placements in several hackathons, showcasing my ability to innovate under pressure and deliver exceptional results.
+
+### ⚡ Passion & Discipline
+
+My enthusiasm for technology extends beyond the classroom. Driven by clear objectives and goals, I embrace challenges and new ideas. I firmly believe that discipline is the key to success and am committed to maintaining a consistent and rigorous approach to my professional development.
+
+### 🎯 Objective
+
+My goal is to leverage my knowledge not only to advance my career but also to make a significant contribution to my community. I believe in the transformative power of technology and am determined to be an agent of change by creating innovative solutions that benefit society.
+
+### 🤝 Join My Journey
+
+I invite you to join me as I pursue challenging and meaningful projects. Your collaboration and feedback are essential for my growth. Together, we can develop a technology-driven future where every line of code counts.
+
+---
+
+Thank you for exploring my repository and being part of my journey!
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diego-larrieta-47975a2a3/)
@@ -45,26 +58,6 @@ Te invito a unirte a mí mientras persigo proyectos desafiantes y significativos
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=101010)]()
 ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)
 
-
-<!--
-**DiegoLarrieta/DiegoLarrieta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-**Hectorjtt/hectorjtt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
